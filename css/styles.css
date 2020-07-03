@@ -1,0 +1,142 @@
+html{
+  scroll-behavior: smooth;
+}
+
+body{
+  position: relative;
+  text-align: center;
+  margin: 50px 60px 50px 60px;
+  border-style: groove;
+  border-color: lightgrey;
+  font-family: fantasy;
+}
+
+#logo{
+  width: 300px;
+  height: 350px;
+}
+
+.t-p{
+  margin-top: 5px;
+  color: darkgrey;
+  font-size: 15px;
+}
+
+.a{
+  margin: 2px 5% 2px 5%;
+  font-size: 1.25rem;
+  display: inline-block;
+  text-decoration: none;
+  color: black;
+}
+
+.a:hover{
+  margin: 2px 5% 2px 5%;
+  font-size: 1.25rem;
+  display: inline-block;
+  text-decoration: none;
+  color: darkgrey;
+}
+
+.border1{
+  margin-bottom: 20px;
+  margin-top: 30px;
+  border-style: none;
+  border-top: double;
+  border-color: darkgrey;
+  width: 75%;
+  border-width: 6px;
+}
+
+.border2{
+  margin-bottom: 40px;
+  margin-top: 20px;
+  border-style: none;
+  border-top: double;
+  border-color: darkgrey;
+  width: 75%;
+  border-width: 6px;
+}
+
+.border3{
+  margin-bottom: 40px;
+  margin-top: 50px;
+  border-style: none;
+  border-top: dotted;
+  border-color: darkgrey;
+  width: 10%;
+  border-width: 6px;
+}
+
+.mentai{
+  display: inline-block;
+  width: 300px;
+  height: 300px;
+  margin-left: 0.5%;
+  margin-right: 0.5%;
+}
+
+#m-img{
+  margin: 0 auto 0 auto;
+  font-style: italic;
+  text-decoration: underline;
+}
+
+.t-flavor{
+  width: 75%;
+  margin: auto;
+  background-color: lightgrey;
+}
+
+#flv{
+  margin-top: 0;
+  padding-top: 20px;
+  margin-bottom: 0;
+}
+
+#jfy{
+  margin-top: 0;
+  padding-bottom: 20px;
+}
+
+.final{
+  width: 30px;
+  margin-top: 0;
+  margin-bottom: 0;
+  margin-right: 0.5%;
+}
+
+.final:hover{
+  width: 30px;
+  margin-top: 0;
+  margin-bottom: 0;
+  margin-right: 0.5%;
+  opacity: 0.5;
+}
+
+.final_patokan{
+  margin-left: 60%;
+  margin-right: 0.5%;
+  width: 30px;
+}
+
+.final_patokan:hover{
+  margin-left: 60%;
+  margin-right: 0.5%;
+  width: 30px;
+  opacity: 0.5;
+}
+
+.made{
+  margin: 0 auto 0 auto;
+}
+
+.f-border{
+  margin-bottom: 10px;
+  margin-top: 0;
+  border-style: none;
+  border-top: double;
+  border-color: darkgrey;
+  width: 75%;
+  border-width: 6px;
+}
